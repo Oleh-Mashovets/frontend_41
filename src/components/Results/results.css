@@ -1,0 +1,26 @@
+.winner__box {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.btn__result {
+    margin-top: 25px;
+    width: 250px;
+    padding: 25px 0;
+    background: none;
+    border: 2px solid white;
+    border-radius: 20px;
+    cursor: pointer;
+    color: white;
+    text-transform: uppercase;
+}
+.winner__block {
+    padding-top: 25px;
+    width: 350px;
+    height: 350px;
+}
+.img__win {
+    width: 100%;
+    height: 100%;
+}
